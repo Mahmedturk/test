@@ -22,3 +22,6 @@ This readme was built using the [tutorial](https://docs.github.com/en/get-starte
 >Highlighted
 
 to call out a command in a sentence `let's see`
+
+[ChatGPT generated image link](2.c71256eb6738b9943dbe.png)
+
