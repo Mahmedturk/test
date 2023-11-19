@@ -27,3 +27,11 @@ to call out a command in a sentence `let's see`
 
 ![Show the image in the text](/2.c71256eb6738b9943dbe.png)
 
+* this is the first
+* in unordered list
+- yes
+
+1 One
+1 Two 
+1 Three
+
