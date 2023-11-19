@@ -11,3 +11,5 @@ This is for test only.
 _Italics_
 ***All bold and italic***
 ~~just checking strikethrough~~
+
+This a superscript <sup>5</sup>
