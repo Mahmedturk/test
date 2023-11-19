@@ -46,3 +46,7 @@ to call out a command in a sentence `let's see`
  - [ ] 🎃
 
 :shipit: :+1:
+
+My first footnote [^1]
+
+[^1]: First footnote 😜
