@@ -49,9 +49,9 @@ to call out a command in a sentence `let's see`
 
 My first footnote [^1]
 
-[!TIP]
+>[!TIP]
 >Follow me for more
 
-[!CAUTION]
+>[!CAUTION]
 >Be wary of the snakes 🐍
 [^1]: First footnote 😜
