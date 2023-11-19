@@ -10,3 +10,4 @@ This is for test only.
 **Just checking bold syntax**
 _Italics_
 ***All bold and italic***
+~~just checking strikethrough~~
