@@ -51,6 +51,7 @@ My first footnote [^1]
 
 [!TIP]
 >Follow me for more
+
 [!CAUTION]
 >Be wary of the snakes 🐍
 [^1]: First footnote 😜
