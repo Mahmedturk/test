@@ -13,3 +13,4 @@ _Italics_
 ~~just checking strikethrough~~
 
 This a superscript <sup>5</sup>
+This is a subscript <sub>6</sub>
