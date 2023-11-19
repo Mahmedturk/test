@@ -8,3 +8,5 @@ This is for test only.
 ### Third Level Heading 
 
 **Just checking bold syntax**
+_Italics_
+***All bold and italic***
