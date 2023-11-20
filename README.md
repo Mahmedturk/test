@@ -66,5 +66,12 @@ print("Hello World!)
 my first collapsed section 
 
 <details>
-<summary> collapsed section example <\summary>
+<summary> collapsed section example </summary>
 </details>
+
+##Creating a Table 
+
+|First column|Second column|
+|------------|-------------|
+|34.5        |78.3         |
+
