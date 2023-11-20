@@ -62,3 +62,9 @@ Here is my first code block
 print("Hello World!)
 
 ```
+
+my first collapsed section 
+
+<details>
+<summary> collapsed section example <\summary>
+</details>
