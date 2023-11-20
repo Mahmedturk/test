@@ -69,7 +69,7 @@ my first collapsed section
 <summary> collapsed section example </summary>
 </details>
 
-##Creating a Table 
+## Creating a Table 
 
 |First column|Second column|
 |------------|-------------|
