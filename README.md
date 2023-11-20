@@ -55,3 +55,10 @@ My first footnote [^1]
 >[!CAUTION]
 >Be wary of the snakes 🐍
 [^1]: First footnote 😜
+
+Here is my first code block
+
+```
+print("Hello World!)
+
+```
